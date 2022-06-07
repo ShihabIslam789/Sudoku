@@ -1,9 +1,9 @@
 # Sudoku
-A game of Sudoku using a backtracking Algorithm and a graphical GUI for Aesthetic. 
-To initiate and play the game run GUI.py
+A game of Sudoku using a backtracking Algorithm and a graphical GUI for Aesthetic. <br>
+To initiate and play the game run GUI.py <br>
 
-Library requirements: Pygame
-run in terminal 'pip install Pygame'
+Library requirements: Pygame <br>
+run in terminal the command 'pip install Pygame' <br>
 
 # ToolTip
 Upon start the player can click on any of the boxes and insert a number. Press Enter to confirm the player input in the box.
