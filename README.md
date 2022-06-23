@@ -1,5 +1,6 @@
 # Sudoku
 A game of Sudoku using a backtracking Algorithm and a graphical GUI for Aesthetic. <br>
+## How To Install the Game
 To initiate and play the game run GUI.py <br>
 
 Library requirements: Pygame <br>
